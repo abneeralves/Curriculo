@@ -147,7 +147,7 @@ li {
 .progress1 {
     height: 17px;
     width: 15rem;
-    margin-left: 60px;
+    margin-left: 75px;
     padding: 2px;
     background-color: #7c7c7c;
     display: flex;
@@ -156,14 +156,14 @@ li {
   
 .progress1::before {
     content: "";
-    width: 50%;
+    width: 60%;
     background-color: rgb(0, 255, 13);
 }
 
 .progress2 {
     height: 17px;
     width: 15rem;
-    margin-left: 70px;
+    margin-left: 87px;
     padding: 2px;
     background-color: #7c7c7c;
     display: flex;
@@ -179,7 +179,7 @@ li {
 .progress3 {
     height: 17px;
     width: 15rem;
-    margin-left: 20px;
+    margin-left: 37px;
     padding: 2px;
     background-color: #7c7c7c;
     display: flex;
@@ -188,14 +188,14 @@ li {
   
 .progress3::before {
     content: "";
-    width: 30%;
+    width: 40%;
     background-color: rgb(0, 255, 13);
 }
 
 .progress4 {
     height: 17px;
     width: 15rem;
-    margin-left: 61px;
+    margin-left: 40px;
     padding: 2px;
     background-color: #7c7c7c;
     display: flex;
@@ -204,14 +204,14 @@ li {
   
 .progress4::before {
     content: "";
-    width: 15%;
+    width: 30%;
     background-color: rgb(0, 255, 13);
 }
 
 .progress5 {
     height: 17px;
     width: 15rem;
-    margin-left: 24px;
+    margin-left: 77px;
     padding: 2px;
     background-color: #7c7c7c;
     display: flex;
@@ -220,11 +220,27 @@ li {
 
 .progress5::before {
     content: "";
-    width: 40%;
+    width: 50%;
     background-color: rgb(0, 255, 13);
 }
 
 .progress6 {
+    height: 17px;
+    width: 15rem;
+    margin-left: 20px;
+    padding: 2px;
+    background-color: #7c7c7c;
+    display: flex;
+    border-radius: 3px;
+}
+
+.progress6::before {
+    content: "";
+    width: 35%;
+    background-color: rgb(0, 255, 13);
+}
+
+.progress7 {
     height: 17px;
     width: 15rem;
     margin-left: 24px;
@@ -234,13 +250,13 @@ li {
     border-radius: 3px;
 }
 
-.progress6::before {
+.progress7::before {
     content: "";
     width: 97%;
     background-color: rgb(0, 255, 13);
 }
 
-.progress7 {
+.progress8 {
     height: 17px;
     width: 15rem;
     margin-left: 58px;
@@ -250,17 +266,10 @@ li {
     border-radius: 3px;
 }
 
-.progress7::before {
+.progress8::before {
     content: "";
     width: 20%;
     background-color: rgb(0, 255, 13);
-}
-
-h5 {
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 1rem;
-    text-align: justify;
-    margin: 10px;
 }
 
 @keyframes efeito {
