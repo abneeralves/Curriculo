@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/abneeralves/Curriculo/assets/121408278/b665b165-8981-4072-9b51-70f1ebbcb09b width="100%" />
+  <img src=https://github.com/user-attachments/assets/2e6874d0-499e-46ca-bbac-862d1a581a39 />
 </p>
 
 ## 💻 Descrição
