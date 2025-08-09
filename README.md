@@ -2,9 +2,6 @@
   Curriculo
 </h1>
 
-<p align="center">
-  <img src=https://github.com/user-attachments/assets/2e6874d0-499e-46ca-bbac-862d1a581a39 />
-</p>
 
 ## 💻 Descrição
 
